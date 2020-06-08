@@ -1,5 +1,5 @@
 # DATASETS FOLDER
---
+
 This folder contains the datasets of 4 reservoirs :
 1. Poondi
 2. Cholavaram
@@ -15,4 +15,4 @@ The dataset contains the following fields:
 * nth day in year
 
 
-Dataset credits: Chennai Metropolitian Water Supply & Sewage Board : https://chennaimetrowater.tn.gov.in/
+**Dataset credits**: Chennai Metropolitian Water Supply & Sewage Board : https://chennaimetrowater.tn.gov.in/
