@@ -1,10 +1,10 @@
 # DATASETS FOLDER
 
 This folder contains the datasets of 4 reservoirs :
-1. Poondi
-2. Cholavaram
-3. Chembarambaakam
-4. Redhills
+1. Poondi (PN)
+2. Cholavaram (CZ)
+3. Chembarambaakam (CH)
+4. Redhills (RH)
 
 The dataset contains the following fields:
 * Storage (in MCFT)
